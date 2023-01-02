@@ -2,8 +2,8 @@
 layout: tag-list
 type: tag
 title: Development
-slug: development
-category: devlog
+slug: Development
+category: Development
 sidebar: true
 description: >
    Development Tips & Settings

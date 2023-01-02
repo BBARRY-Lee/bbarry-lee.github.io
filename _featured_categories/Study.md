@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: Study
-slug: study
+slug: Study
 sidebar: true
 order: 6
 description: >

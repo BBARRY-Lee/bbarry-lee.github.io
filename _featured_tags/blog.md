@@ -2,9 +2,9 @@
 layout: tag-list
 type: tag
 title: Blog
-slug: blog
-category: devlog
+slug: Blog
+category: Develpment
 sidebar: true
 description: >
-   Posts about blogging / jekyll theme.
+   Posts about blogging.
 ---

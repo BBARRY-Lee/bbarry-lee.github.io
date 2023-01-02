@@ -2,8 +2,8 @@
 layout: tag-list
 type: tag
 title: Git
-slug: git
-category: devlog
+slug: Git
+category: Development
 sidebar: false
 description: >
    Any article related to Git.
