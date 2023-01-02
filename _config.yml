@@ -140,7 +140,7 @@ defaults:
 
   # Don't include site verification file(for google) in the sitemap
   - scope:
-      path:            google ***.html
+      path:            google7eb5ee206c44996d.html
     values:
       sitemap:         false
 
@@ -391,7 +391,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: "블라블라블라"
+google_site_verification: "KtH5JgQzRuCsCZsu9MVAtIOsa5tDZuNNZtHOwfrQIqw"
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
