@@ -31,4 +31,4 @@ Pleaseh check my [resume] if you wish to know more about me.
 <!--author-->
 
 <!-- Links -->
-
+[resume]: /resume/

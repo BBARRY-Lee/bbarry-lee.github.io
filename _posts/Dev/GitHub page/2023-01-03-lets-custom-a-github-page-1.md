@@ -8,28 +8,24 @@ image:
   path:   /assets/img/2023-01-03/1.png
 ---
 # [Mac] Let's custom a GitHub Page 1
-<br>
-<br>
-<br>
-<div align="center">
+<br><br><br>
+
 안녕하세요, Daisy 입니다 ☺️ <br>
 <br>
 이번에는 Jekyll을 활용해 GitHub page를 custom 해보았으며, <br>
 그 과정을 쉽게 이해할 수 있도록 정리하여 공유해보고자 합니다. <br>
 <br>
-GitHub Page로 개인 블로그를 만드는 것에 관심이 있으시면, 해당 시리즈를 참고해주세요 :)<br>
-</div>
-<br>
-<br>
-<br>
+> GitHub Page로 개인 블로그를 만드는 것에 관심이 있으시면, [해당 시리즈](/tag-github-page/)를 참고해주세요 :)<br>
+
+<br><br><br>
 
 ---
 
-<!--more-->
-
+<!-- Table of contents -->
 * this unordered seed list will be replaced by the toc
 {:toc}
 
+<!-- text -->
 ## 1. About Jekyll (지킬)
 ### 1-1. Jekyll의 간략한 소개
 `Jekyll`은 정적인 웹사이트 생성기로 `Ruby`를 기반으로 제작 되었으며 `Markdown` 방식의 글쓰기가 가능합니다. <br>
@@ -122,15 +118,17 @@ $ bundle exec jekyll serve
 ## 3. 마무리
 
 다음 포스팅으로는 Hydejack Theme를 본격적으로 custom 해보겠습니다.
-<br>
-<br>
+<br><br>
+
+<!-- Next series [Let's custom a GitHub Page 1](lets-custom-a-github-page-1){:.heading.flip-title}
+{:.read-more} -->
 
 ---
 
-<!--more-->
 
 <br><br>
 
+<!-- Closing -->
 <div align="center">
 소통은 제가 공부하고 공유하는 원동력이 됩니다.<br>
 해당 글이 도움이 되셨다면 소중한 격려와 응원 부탁드립니다 ☺️

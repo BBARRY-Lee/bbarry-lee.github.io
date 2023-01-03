@@ -3,33 +3,29 @@ layout:   post
 title:    "[Mac] Let's create a GitHub Page 1"
 subtitle: "[Mac] GitHub Page로 개인 기술 블로그 만들기"
 category: Dev
+more_posts: posts.md
 tags:     GitHub-Page Git Mac
 image:
   path:   /assets/img/2023-01-03/1.png
 ---
 # [Mac] Let's create a GitHub Page 1
-<br>
-<br>
-<br>
-<div align="center">
+<br><br><br>
+
 안녕하세요, Daisy 입니다 ☺️ <br>
 <br>
-제가 이번에 GitHub page를 통해 개인 블로그를 만들어보면서, <br>
+GitHub Page를 통해 개인 블로그를 만들어본 후, <br>
 그 과정을 쉽게 이해할 수 있도록 정리하여 공유해보려고 합니다. <br>
 <br>
-GitHub Page로 개인 블로그를 만드는 것에 관심이 있으시면, 해당 시리즈를 참고해주세요 :)<br>
-</div>
-<br>
-<br>
-<br>
+> GitHub Page로 개인 블로그를 만드는 것에 관심이 있으시면, [해당 시리즈](/tag-github-page/)를 참고해주세요 :)<br>
+
+<br><br><br>
 
 ---
-
-<!--more-->
-
+<!-- Table of contents -->
 * this unordered seed list will be replaced by the toc
 {:toc}
 
+<!-- text -->
 ## 1. GitHub 계정 생성
 
 다음 [GitHub Web site](https://github.com/)에 접속해 `계정`을 생성해주세요. <br>
@@ -106,7 +102,7 @@ $ echo "Hello World" > Index.html
 ---
 
 ### 3-3. Local Directory에 Git 초기설정
-Chapter 3 초반에 추후 원활한 배포를 위해 Brunch 명을 `master`로 초기 설정을 진행한다고 했었습니다.<br><br>
+[3. Local Setting](#3-local-setting) 초반에 추후 원활한 배포를 위해 Brunch 명을 `master`로 초기 설정을 진행한다고 했었습니다.<br><br>
 먼저, `git init`이라는 명령어를 터미널에 입력해 해당 Directory를 `Git 저장소`로 설정해줍니다.<br>
 그러면 해당 Local Directory에 `.git/`이라는 폴더가 생성되며, `master`라는 Brunch가 생성된 것을 확인할 수 있습니다.<br>
 <br>
@@ -157,16 +153,18 @@ $ git push origin master
 ## 5. 마무리
 
 다음 포스팅으로는 `Jekyll`을 활용하여, 본격적으로 GitHub page를 커스텀했던 과정을 소개해보겠습니다.
-<br>
-<br>
-
----
-
-<!--more-->
-
 <br><br>
 
+Next series [Let's custom a GitHub Page 1](lets-custom-a-github-page-1){:.heading.flip-title}
+{:.read-more}
+
+---
+<br><br><br>
+
+<!-- Closing -->
 <div align="center">
 소통은 제가 공부하고 공유하는 원동력이 됩니다.<br>
 해당 글이 도움이 되셨다면 소중한 격려와 응원 부탁드립니다 ☺️
 </div>  
+
+
