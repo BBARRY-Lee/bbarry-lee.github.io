@@ -20,7 +20,7 @@ image:
 <br><br><br>
 
 ---
-
+<!--more-->
 <!-- Table of contents -->
 * this unordered seed list will be replaced by the toc
 {:toc}

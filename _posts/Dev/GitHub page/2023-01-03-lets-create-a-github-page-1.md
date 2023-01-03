@@ -21,6 +21,8 @@ GitHub Page를 통해 개인 블로그를 만들어본 후, <br>
 <br><br><br>
 
 ---
+
+<!--more-->
 <!-- Table of contents -->
 * this unordered seed list will be replaced by the toc
 {:toc}
