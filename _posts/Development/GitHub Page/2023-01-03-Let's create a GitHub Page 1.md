@@ -65,8 +65,8 @@ GitHub에 생성하신 계정으로 로그인 후, Repository를 새로 생성�
 ## 3. Local Setting
 이제 Local 환경으로 돌아가 초기 환경설정을 진행해봅니다.<br>
 
-필자는 배포과정에서 어려움이 있었지만 이 과정에서 배운 것은,<br>
-정상적으로 GitHub page가 `배포`되려면 (외부에서 해당 url로 접속했을 때 정상적으로 작동) <br>
+필자는 Jekyll을 활용해 커스텀 후 배포과정에서 404 에러로 어려움이 있었지만<br>
+이 과정에서 배운 것은 추후 Jekyll을 활용해 GitHub page를 배포 후 정상적으로 로딩되려면,<br>
 Brunch 명이 `master`가 되어야 한다는 것이었습니다. <br><br>
 ![](/assets/img/2023-01-03/4.png)<br>
 <br>
@@ -156,7 +156,7 @@ $ git push origin master
 ---
 ## 5. 마무리
 
-다음 포스팅으로는 `Gkeyll`을 활용하여, 본격적으로 GitHub page를 커스텀했던 과정을 소개해보겠습니다.
+다음 포스팅으로는 `Jekyll`을 활용하여, 본격적으로 GitHub page를 커스텀했던 과정을 소개해보겠습니다.
 <br>
 <br>
 
