@@ -2,8 +2,8 @@
 layout:   post
 title:    "Let's create a GitHub Page 1"
 subtitle: "GitHub Page로 개인 기술 블로그 만들기"
-category: Development
-tags:     Github-page
+category: [Github Page]
+tags:     [Github-page]
 image:
   path:   /assets/img/2023-01-03/1.png
 ---
