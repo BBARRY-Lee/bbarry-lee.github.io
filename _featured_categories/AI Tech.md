@@ -4,7 +4,7 @@ type: category
 title: AI Tech
 slug: AI-Tech
 sidebar: true
-order: 4
+order: 3
 description: >
   Anything about AI.
 ---

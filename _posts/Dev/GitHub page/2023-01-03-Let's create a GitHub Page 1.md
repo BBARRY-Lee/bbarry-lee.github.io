@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Let's create a GitHub Page 1"
-subtitle: "GitHub Page로 개인 기술 블로그 만들기"
-category: [Github Page]
-tags:     [Github-page]
+title:    "[Mac] Let's create a GitHub Page 1"
+subtitle: "[Mac] GitHub Page로 개인 기술 블로그 만들기"
+category: Dev
+tags:     GitHub-Page Git Mac
 image:
   path:   /assets/img/2023-01-03/1.png
 ---
-# Let's create a GitHub Page 1
+# [Mac] Let's create a GitHub Page 1
 <br>
 <br>
 <br>

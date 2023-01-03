@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: Mac
-slug: Mac
-category: Dev
+title: ML
+slug: ML
+category: AI-Tech
 sidebar: false
 description: >
-   Mac related articles
+   about ML.
 ---

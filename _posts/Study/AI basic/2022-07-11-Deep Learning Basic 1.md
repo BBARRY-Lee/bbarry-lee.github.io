@@ -11,8 +11,8 @@ image:
 
 ## Intro
 >1. 딥러닝에 대한 소개 및 keyword
-2. `CNN`(Convolutional Neural Networks), `RNN`(Recurrent Neural Networks)와 같은 딥러닝 모델 학습 전, <br>
- 중요한 요소인 `Data`, `Model`, `Loss`, `Optimization algorithms`에 대해 학습
+>2. `CNN`(Convolutional Neural Networks), `RNN`(Recurrent Neural Networks)와 같은 딥러닝 모델 학습 전, <br>
+     중요한 요소인 `Data`, `Model`, `Loss`, `Optimization algorithms`에 대해 학습
 
 ---
 

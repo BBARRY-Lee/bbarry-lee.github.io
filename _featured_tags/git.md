@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: Git
 slug: Git
-category: Development
+category: Dev
 sidebar: false
 description: >
    Any article related to Git.

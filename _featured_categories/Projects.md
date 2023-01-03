@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Project
-slug: Project
+title: Projects
+slug: Projects
 sidebar: true
-order: 5
+order: 4
 description: >
   Anything about Projects.
 ---

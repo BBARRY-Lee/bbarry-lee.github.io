@@ -4,7 +4,7 @@ type: category
 title: Study
 slug: Study
 sidebar: true
-order: 6
+order: 5
 description: >
   Anything about studying.
 ---

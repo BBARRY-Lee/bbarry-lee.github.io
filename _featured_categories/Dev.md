@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Development
-slug: Development
+title: Dev
+slug: Dev
 sidebar: true
-order: 3
+order: 6
 description: >
   Anything about Development tips and settings.
 ---
