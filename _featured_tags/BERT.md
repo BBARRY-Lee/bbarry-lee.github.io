@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: AI
-slug: AI
+title: BERT
+slug: BERT
 category: AI-Tech
 sidebar: false
 description: >
-   AI related articles
+   BERT related articles
 ---

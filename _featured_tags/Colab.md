@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: AI
-slug: AI
-category: AI-Tech
+title: Colab
+slug: Colab
+category: Dev
 sidebar: false
 description: >
-   AI related articles
+   Colab related articles
 ---

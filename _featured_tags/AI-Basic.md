@@ -6,5 +6,5 @@ slug: AI-Basic
 category: Study
 sidebar: true
 description: >
-   AI Basic study
+   AI Basic related articles
 ---
