@@ -1,5 +1,5 @@
 ## Daisy's AI Tech Blog
-[Daisy's AI Tech Blog](https://bbarry-lee.github.io)
+GitHub page와 jekyll로 구현한 개인 기술 블로그 [Daisy's AI Tech Blog](https://bbarry-lee.github.io) 입니다 :)
 
 ---
 
