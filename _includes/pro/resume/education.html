@@ -10,10 +10,11 @@
     <header class="{% unless forloop.first %}mt2{% endunless %}">
       {% if edu.certificate %}
       <p class="faded">
-        <time datetime="{{ edu.date | date_to_xmlschema}}">{{ edu.date | date:from_to_format }}</time>
+        {% include components/from-to.html from=edu.startDate to=edu.endDate format=from_to_format %}
       </p>
       <h3 class="h4 faded">
         {% capture certificate %}<span class="bc">{{ edu.certificate }}</span>{% endcapture %}
+        {% capture certificate %}<span class="bc" {% if edu.endDate.size > 0 %}property="name"{% endif %}>{{ edu.certificate }}</span>{% endcapture %}
         {{ strings.resume.certificate
           | default:"<!--certificate-->"
           | replace:"<!--certificate-->", certificate

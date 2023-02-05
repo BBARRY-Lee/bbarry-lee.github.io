@@ -1,45 +1,57 @@
 basics:
-  name: "Daisy Lee"
-  label: "AI Engineer"
+  name: "JIYUN LEE"
+  label: "Program Manager"
   picture: /assets/img/Daisy.jpeg
-  email: "bbarry.official@gmail.com"
-  website: "https://bbarry-lee.github.io"
-  summary: >
-    AI for a better world and life.<br>
-    Hello, I'm Daisy Lee, AI Engineer.<br>
-    
-
+  summary: |
+    By combining my extensive experience in sales planning and management spanning 7 years, as well as my IT knowledge gained from 6 months of AI professional education, and hands-on experience in developing 2 services, I aim to drive business growth as a Program manager who ensure projects are completed on time with various stakeholders.
   location:
   #   address: "2712 Broadway St"
   #   postalCode: "CA 94115"
-     city: "Pangyo"
+     city: "Bundang-gu, Seongnam-si"
      countryCode: "KR"
      # region: "Gyeonggi-do"
+  email:
+    'bbarry.official@gmail.com'
+  phone: +8210 - 4922 - 2066
+
   profiles:
-    - network: "Github"
-      username: "BBARRY-Lee"
-      url: "https://github.com/BBARRY-Lee"
+    - network:  "download"
+      username: Portfolio
+      url: "https://daisylee.notion.site/Daisy-Portfolio-09aef57d9e0a423fa34b7ac85ec56559"
     - network: "LinkedIn"
-      username: "Jiyun Lee"
-      url: "https://www.linkedin.com/in/jiyun-lee-b4136424b/"
+      username: "LinkedIn"
+      url: "https://www.linkedin.com/in/jiyun-lee-b4136424b/?locale=en_US"
+    - network: "Github"
+      username: "GitHub"
+      url: "https://github.com/BBARRY-Lee"
+
+
+
 work:
-  - company: "COSMAX"
-    position: "Business management"
+  - company: "COSMAX Co., Ltd."
+    position: "Sales Manager"
     website: "https://www.cosmax.com/main.asp"
     startDate: "2016-01-11"
     endDate: "2022-08-31"
-    summary: >
-      Business management work
-    # highlights:
-  #- company: ""
-  #  position: "AI Engineer"
-  #  website: ""
-  #  startDate: ""
-  #  endDate: ""
-  #  summary: >
-  #    AI Engineer
-  #  highlights:
-  #    - "Software Capacity Building T/F"
+    summary: |
+      As a Sales Manager with 7 years of experience in the cosmetics ODM industry, I bring a proven track record of successfully managing and supporting B2B sales projects from start to finish.
+      For success and growth of the business, I belive that collaboration with various stakeholders is the most important thing, so I have focused on completing the project through seamless collaboration within a pre-defined deadlines.
+
+
+      1. Plan and manage B2B sales processes for increased efficiency and productivity :
+      - Improve monthly reduce losses by 0.3% through ongoing process improvement
+      - Ensure 95% or higher achievement of monthly delivery targets through monitor and report monthly project progress and issues, stakeholder collaboration requests to resolve issues 
+      - Plan new sales processes to improve efficiency and increase productivity
+      
+      2. Develop business plans and manage business-related indices :
+      - Establish semi-annual business plans and KPI and monitor monthly performance and outcomes
+      - Ensure the achievement of monthly sales goals of 100% or higher through management and reporting 
+
+      3. Proficient Skills
+      - Project Management · Sales Management · Sales Operations
+      - Communication · Cross-functional Coordination
+      - Performance management · Reporting
+
 education:
   - institution: "Konkuk University, Seoul"
     area: "Industrial Engineering"
@@ -47,51 +59,83 @@ education:
     startDate: "2019-03-02"
     endDate: "2023-02-20"
     gpa: "3.5 / 4.5"
-    courses:
-      - "Industrial Practical Mathematics"
-      - "The basis of industrial statistics"
-      - "The practice of statistical analysis"
-      - "Data Science"
-      - "Digital Industry Convergence Theory"
-      - "E-business strategy"
-      - "High-tech marketing"
-      - "Introduction to Smart Factory"
-      - "Quality management"
-      - "Economic principles"
-  # - certificate: "Engineer Information Processing (정보처리기사)"
-  #   date: "2019-11-22"
+    courses: |
+      Industrial Practical Mathematics, The basis of industrial statistics, The practice of statistical analysis, Data Science,
+      Digital Industry Convergence Theory, E-business strategy, High-tech marketing, Quality management, Economic principles
+  
+  - certificate: "Programmers AI Dev Course 4th"
+    startDate: "2022-09-01"
+    endDate: "2023-02-20"
+    courses: |
+      With a focus on expanding skill set and broadening my professional experience, I have enrolled in advanced AI education courses.
+      These courses have allowed me to enhance my IT knowledge and collaborate effectively with a diverse group of stakeholders, furthering my career goals.
+
 projects:
-  - title: "Data achrchive Data Planet service"
-    startDate: "2022-10-01"
+  - title: "Development of 'Emotion subtitle' service"
+    startDate: "2022-12-01"
     endDate: "2023-02-19"
-    summary: "Data achrchive service"
+    summary: "Development of multi-modal emotion classification-based subtitle synthesis service"
+    url: "https://github.com/BBARRY-Lee/Emotion-subtitle"
+    highlights:
+     - Managed project, led the team, planned and implemented the service, managed issues and schedules using GitHub, Notion, Slack.
+     - Developed subtitle synthesis function using OpenCV and PIL libraries.
+
+  - title: "Development of Data archive, 'Data Planet' service"
+    startDate: "2022-09-01"
+    endDate: "2022-11-30"
+    summary: "Development of Data archive service utilizing BERT and Recommendation AI Model"
     url: "https://github.com/Paul-scpark/Data-planet"
-    # highlights:
-    #  -
+    highlights:
+     - Experience in the entire development process, from problem definition to data analysis, service planning to feature development, and collaboration flow.
+     - Enjoyed discussions to defining a matter of daily life and actualizing services.
+     - Open AI API Use Case Contest 3rd Award.
+
+
 awards:
-  - title: "ETRI Open API Use Case Contest 3rd Award"
-    awarder: "ETRI (한국전자통신연구원)"
+  - title: "Open AI API Use Case Contest 3rd Award"
+    awarder: "ETRI"
     url: "https://aiopen.etri.re.kr/viewNotice?id=107"
-    # highlights:
-    #  - 
+    highlights: Development of Data archive service utilizing BERT and Recommendation AI Model 
+     
 skills:
-  - name: "AI Engineering"
-    level: "Junior"
+  - name: "Project management"
+    level: "expert"
     keywords:
-      - "Python"
-      - "Pytorch"
-      - "Tensorflow"
-      - "NLP"
-  - name: "Algorithm"
-    level: "Junior"
+      - Waterfall
+      - Agile
+      - Scrum
+
+  - name: "Risk management and mitigation"
+    level: "expert"
     keywords:
-      - "Python"
-      - "C++"
+      - "Loss prevention and control"
+      - "Incident response and crisis management"
+
+  - name: "Stakeholder Management"
+    level: "expert"
+    keywords:
+      - "Collaboration and partnerships"
+
+
+  - name: "Problem Solving and Decision Making"
+    level: "amateur"
+    keywords:
+      - "Problem identification and resolution"
+      - "Problem prioritization"
+
+  - name: "Data analysis"
+    level: "amateur"
+    keywords:
+      - "Data preprocessing"
+      - "Dashboarding and reporting"
+      - "Machine learning"
+
+  
 languages:
   - language: "Korean"
     fluency: "Native speaker"
   - language: "English"
-    fluency: "Fluent"
+    fluency: "limited-working-proficiency"
 interests:
   - name: "Activity"
     keywords:
@@ -101,9 +145,9 @@ interests:
   #- name: "Reading"
   #  keywords:
   #    - ""
-  - name: "Gaming"
-    keywords:
-      - "League of Legend"
+  # - name: "Gaming"
+  #  keywords:
+  #    - "League of Legend"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
