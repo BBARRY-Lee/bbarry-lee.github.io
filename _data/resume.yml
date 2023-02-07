@@ -3,7 +3,9 @@ basics:
   label: "Product Manager"
   picture: /assets/img/Daisy.jpeg
   summary: |
-    By combining my extensive experience in sales planning and management spanning 7 years, as well as my IT knowledge gained from 6 months of AI professional education, and hands-on experience in developing 2 services, I aim to drive business growth as a pm who ensure projects are completed on time with various stakeholders.
+    7년차 B2B 영업의 기획 및 관리 경력, 그리고 6개월 간 AI 전문 교육을 통한 IT 제반 지식과 AI를 활용한 2번의 서비스 개발 경험을 합하여, 다양한 이해관계자들과의 협업을 기반한 프로젝트의 관리를 통해 서비스를 기획하고 고도화를 전문으로 하는 ‘Product Manager’으로서 비즈니스 성장을 견인하고자 합니다.
+  
+  website : "1997.11.27."
   location:
   #   address: "2712 Broadway St"
   #   postalCode: "CA 94115"
@@ -20,7 +22,7 @@ basics:
       url: "https://daisylee.notion.site/Daisy-Portfolio-09aef57d9e0a423fa34b7ac85ec56559"
     - network: "LinkedIn"
       username: "LinkedIn"
-      url: "https://www.linkedin.com/in/jiyun-lee-b4136424b/?locale=en_US"
+      url: "https://www.linkedin.com/in/jiyun-lee-b4136424b/"
     - network: "Github"
       username: "GitHub"
       url: "https://github.com/BBARRY-Lee"
@@ -34,68 +36,70 @@ work:
     startDate: "2016-01-11"
     endDate: "2022-08-31"
     summary: |
-      As a Sales Manager with 7 years of experience in the cosmetics ODM industry, I bring a proven track record of successfully managing and supporting B2B sales projects from start to finish.
-      For success and growth of the business, I belive that collaboration with various stakeholders is the most important thing, so I have focused on completing the project through seamless collaboration within a pre-defined deadlines.
+      화장품 ODM 업계에서 7년 경력의 sales manager로서 B2B 영업 프로젝트를 처음부터 끝까지 성공적으로 관리하고 지원한 실적을 가지고 있습니다.
+      비즈니스의 성공과 성장을 위해서는 다양한 이해관계자와의 협업이 가장 중요하다고 생각하기 때문에 정해진 기한 내에 원활한 협업을 통해 프로젝트를 완성하는 데 주력해 왔습니다.
 
-
-      1. Plan and manage B2B sales processes for increased efficiency and productivity :
-      - Improve monthly reduce losses by 0.3% through ongoing process improvement
-      - Ensure 95% or higher achievement of monthly delivery targets through monitor and report monthly project progress and issues, stakeholder collaboration requests to resolve issues 
-      - Plan new sales processes to improve efficiency and increase productivity
+      1. B2B 영업 프로세스의 효율성 및 생산성 향상을 위한 기획 및 관리
+          - 신규 프로세스 기획 및 규정을 통한 효율성 및 생산성 향상
+            - (2016년) 계약서 관리 기획 → 미수금 및 부실채권 발생 리스크 50% 감소
+            - (2020년) 수주 프로세스 기획 → 오수주로 인한 오생산 발생률 제로화
+            - (2021년) 중국 수출업무 규정 및 안정화 → 월 매출 대비 2% 고정 창출 기여
+          - 기존 프로세스 개선을 통한 매월, 월매출 대비 약 0.3% 손실 구조 개선
+            - (2018년) 개발비용 관리방안 개선을 통한 손실 구조 개선
+            - (2019년) 단가 관리방안 개선을 통한 손실 구조 개선
+          - 매월 프로젝트 이슈/리스크의 파악 및 리포팅을 통한 월 납기 목표 95% 이상 달성 견인
+         
+      2. 사업계획 수립, 비지니스 관련 Index 관리
+          - 사업계획 및 반기별 KPI 수립, 월별 지표 및 성과관리
+          - Index 관리 및 리포팅을 통한 월 매출 목표 100% 이상 달성 견인
       
-      2. Develop business plans and manage business-related indices :
-      - Establish semi-annual business plans and KPI and monitor monthly performance and outcomes
-      - Ensure the achievement of monthly sales goals of 100% or higher through management and reporting 
-
-      3. Proficient Skills
+      3. 보유기술
       - Project Management · Sales Management · Sales Operations
       - Communication · Cross-functional Coordination
       - Performance management · Reporting
 
 education:
-  - institution: "Konkuk University, Seoul"
-    area: "Industrial Engineering"
+  - institution: "건국대학교"
+    area: "산업경영공학부 신산업융합학과"
     studyType: "Bachelor"
     startDate: "2019-03-02"
     endDate: "2023-02-20"
     gpa: "3.5 / 4.5"
     courses: |
-      Industrial Practical Mathematics, The basis of industrial statistics, The practice of statistical analysis, Data Science,
-      Digital Industry Convergence Theory, E-business strategy, High-tech marketing, Quality management, Economic principles
+      산업실무수학, 산업통계의기초, 통계분석실무, 데이터사이언스,
+      디지털산업융합론, e-비즈니스전략론, 하이테크마케팅, 스마트공장개론, 경제원론
   
-  - certificate: "Programmers AI Dev Course 4th"
+  - certificate: "프로그래머스 인공지능 데브코스 4기"
     startDate: "2022-09-01"
     endDate: "2023-02-20"
     courses: |
-      With a focus on expanding skill set and broadening my professional experience, I have enrolled in advanced AI education courses.
-      These courses have allowed me to enhance my IT knowledge and collaborate effectively with a diverse group of stakeholders, furthering my career goals.
+      2022.09 ~ 현재까지, 더 넓은 분야로의 커리어 확장과 다양한 이해관계자들과 협업 경험, 이를 통한 시야의 확장을 목표로 전문 AI 교육과정 참여 및 두 차례의 AI를 활용한 서비스 개발 프로젝트 진행, ETRI AI API 활용 공모전에도 참가해 3위를 수상했습니다. 
 
 projects:
   - title: "Development of 'Emotion subtitle' service"
     startDate: "2022-12-01"
     endDate: "2023-02-19"
-    summary: "Development of multi-modal emotion classification-based subtitle synthesis service"
+    summary: "Muti-modal 감정 분류를 통한 감정이 반영된 자막 합성 서비스 개발"
     url: "https://github.com/BBARRY-Lee/Emotion-subtitle"
     highlights:
-     - Managed project, led the team, planned and implemented the service, managed issues and schedules using GitHub, Notion, Slack.
-     - Developed subtitle synthesis function using OpenCV and PIL libraries.
+      - GitHub, Notion, Slack을 활용한 프로젝트 매니징 및 팀 리딩, 서비스 기획 및 구체화, 이슈 · 일정관리
+      - OpenCV, PIL, MoviePy 라이브러리를 활용한 자막 합성 기능 개발 진행
 
   - title: "Development of Data archive, 'Data Planet' service"
     startDate: "2022-09-01"
     endDate: "2022-11-30"
-    summary: "Development of Data archive service utilizing BERT and Recommendation AI Model"
+    summary: "BERT, 추천 AI 모델을 활용한 데이터 아카이브 서비스 개발"
     url: "https://github.com/Paul-scpark/Data-planet"
     highlights:
-     - Experience in the entire development process, from problem definition to data analysis, service planning to feature development, and collaboration flow.
-     - Enjoyed discussions to defining a matter of daily life and actualizing services.
-     - Open AI API Use Case Contest 3rd Award.
-
+     - ‘문제정의 → 데이터 분석 → 서비스 기획 → 기능의 개발’까지 개발의 전 과정 및 협업 플로우 경험
+     - 일상에서의 문제를 정의하고, 서비스를 구체화하기 위한 논의 과정에서 즐거움을 느꼈음
+     - (2022.11) 본 서비스를 통해 ETRI OPEN API 활용사례 공모전 3위 우수상 수상   
 
 awards:
-  - title: "Open AI API Use Case Contest 3rd Award"
+  - title: "OETRI OPEN AI API 활용사례 공모전 3위 우수상 수상"
     awarder: "ETRI"
     url: "https://aiopen.etri.re.kr/viewNotice?id=107"
-    highlights: Development of Data archive service utilizing BERT and Recommendation AI Model 
+    highlights: BERT, 추천 AI 모델을 활용한 데이터 아카이브 서비스 개발 
      
 skills:
   - name: "Project management"
@@ -126,7 +130,7 @@ skills:
   - name: "Data analysis"
     level: "amateur"
     keywords:
-      - "Data preprocessing"
+      - "Data EDA & preprocessing with python, R"
       - "Dashboarding and reporting"
       - "Machine learning"
 
