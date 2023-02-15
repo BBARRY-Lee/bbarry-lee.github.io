@@ -82,6 +82,7 @@ projects:
     summary: "BERT, OpenCV를 활용한 5가지의 감정자막 자동 생성 서비스 개발"
     url: "https://github.com/BBARRY-Lee/Emotion-subtitle"
     highlights:
+      - 음성을 들을 수 없는 상황 혹은 청각 장애를 가진 분들이 화면만으로도 화자의 감정을 이해할 수 있도록 서비스를 기획함 
       - GitHub, Notion, Slack을 활용한 프로젝트 매니징 및 팀 리딩, 서비스 기획 및 구체화, 이슈 · 일정관리
       - OpenCV, PIL, MoviePy 라이브러리를 활용한 자막 합성 기능 개발 진행
 
@@ -91,8 +92,8 @@ projects:
     summary: "BERT, 추천 AI 모델을 활용한 데이터 아카이브 서비스 개발"
     url: "https://github.com/Paul-scpark/Data-planet"
     highlights:
+     - 데이터 사용자 입장에서 겪는 어려움 해결을 목적으로 아이디에이션 진행 및 서비스를 기획함
      - ‘문제정의 → 데이터 분석 → 서비스 기획 → 기능의 개발’까지 개발의 전 과정 및 협업 플로우 경험
-     - 데이터 사용자 입장에서 겪는 어려움 해결을 목적으로 아이디에이션 진행 및 서비스 기획 논의
      - (2022.11) 본 서비스를 통해 ETRI OPEN API 활용사례 공모전 3위 우수상 수상   
 
 awards:
