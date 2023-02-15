@@ -20,18 +20,18 @@
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Daisy's AI Garden
+title:                 Daisy's Garden
 
 timezone:              Asia/Seoul
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  AI for a better world and life.
+  For a better world and life.
 
 # A shorter description for the sidebar.
 tagline:               >
-  AI for a better world and life.
+  For a better world and life.
 
 # A list of keywords for your blog
 keywords:              ["AI", "ML", "DL"]
