@@ -1,6 +1,6 @@
 basics:
   name: "JIYUN LEE"
-  label: "서비스의 기획 및 관리자"
+  label: "서비스의 기획 및 관리자 | PM"
   picture: /assets/img/Daisy.jpeg
   summary: |
     7년차 B2B 영업의 기획 및 관리 경력, 그리고 6개월 간 AI 전문 교육을 통한 IT 제반 지식과 AI를 활용한 2번의 서비스 개발 경험을 합하여, 다양한 이해관계자들과의 협업을 기반한 프로젝트의 관리를 통해 일상의 새로운 혁신을 목표로 서비스를 기획하고 관리하는 전문인으로서 비즈니스 성장을 견인하고자 합니다.
@@ -67,7 +67,7 @@ education:
     gpa: "3.5 / 4.5"
     courses: |
       산업실무수학, 산업통계의기초, 통계분석실무, 데이터사이언스,경제원론,
-      디지털산업융합론, e-비즈니스전략론, 하이테크마케팅, 스마트공장개론
+      디지털산업융합론, e-비즈니스전략론, 하이테크마케팅, 스마트공장개론, 서비스관리론
   
   - certificate: "프로그래머스 인공지능 데브코스 4기"
     startDate: "2022-09-01"
@@ -85,6 +85,7 @@ projects:
       - 음성을 들을 수 없는 상황 혹은 청각 장애를 가진 분들이 화면만으로도 화자의 감정을 이해할 수 있도록 서비스를 기획함 
       - GitHub, Notion, Slack을 활용한 프로젝트 매니징 및 팀 리딩, 서비스 기획 및 구체화, 이슈 · 일정관리
       - OpenCV, PIL, MoviePy 라이브러리를 활용한 자막 합성 기능 개발 진행
+      - (2023.02) 본 서비스를 통해 프로그래머스 인공지능 데브코스 4기 1등 최우수상 수상 
 
   - title: "BERT, 유사 데이터 추천 모델을 활용한 데이터 아카이브 ‘데이터 플래닛’ 서비스"
     startDate: "2022-09-01"
@@ -101,7 +102,11 @@ awards:
     awarder: "ETRI"
     url: "https://aiopen.etri.re.kr/viewNotice?id=107"
     highlights: BERT, 추천 AI 모델을 활용한 데이터 아카이브 서비스 개발 
-     
+
+  - title: "프로그래머스 인공지능 데브코스 4기 1등 최우수상 수상"
+    awarder: "프로그래머스"
+    url: "https://github.com/BBARRY-Lee/Emotion-subtitle"
+    highlights: BERT, OpenCV를 활용한 5가지의 감정자막 자동 생성 'EmoS' 서비스 개발 
 skills:
   - name: "Project management"
     level: "expert"
