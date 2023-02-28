@@ -12,7 +12,7 @@ left_column:
  - education
  - projects
  - publications
-# - references
+ - references
 right_column:
  - awards
 # - volunteer
