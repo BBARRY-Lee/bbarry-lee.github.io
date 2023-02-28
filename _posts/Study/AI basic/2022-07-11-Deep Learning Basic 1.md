@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Deep Learning Basic 1"
+title:    "Deep Learning Basic 01 - Intro"
 subtitle: "Deep Learning에 대한 소개 및 keyword"
 category: Study
 tags:     AI-Basic
 image:
   path:   /assets/img/boostcourse.png
 ---
-# Deep Learning Basic 1
+# Deep Learning Basic 01 - Intro
 
 ## Intro
 >1. 딥러닝에 대한 소개 및 keyword
