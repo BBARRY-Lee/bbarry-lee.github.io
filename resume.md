@@ -5,7 +5,7 @@ permalink: /resume/
 description: >
   Hi, I'm Daisy Lee :)
 hide_description: true
-sidebar: true
+sidebar: false
 order: 2
 left_column:
  - work
