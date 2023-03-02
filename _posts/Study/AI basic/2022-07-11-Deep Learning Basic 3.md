@@ -5,7 +5,7 @@ subtitle: "Neural Networks - Multi-layer perceptron"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main3.jpg
 ---
 # Deep Learning Basic 03 - Neural Networks
 

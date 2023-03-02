@@ -5,7 +5,7 @@ subtitle: "RNN"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main10.jpg
 ---
 # Deep Learning Basic 10 - RNN
 

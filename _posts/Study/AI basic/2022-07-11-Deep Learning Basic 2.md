@@ -5,7 +5,7 @@ subtitle: "Deep Learning에 대한 Historical Review"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main2.jpg
 ---
 # Deep Learning Basic 02 - Historical Review
 

@@ -5,7 +5,7 @@ subtitle: "Sequential Models - RNN"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main8.jpg
 ---
 # Deep Learning Basic 08 - Sequential Models (RNN)
 

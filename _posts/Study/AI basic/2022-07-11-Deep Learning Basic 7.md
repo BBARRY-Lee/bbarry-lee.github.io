@@ -5,7 +5,7 @@ subtitle: "CNN (Convolutional Neural Network)"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main7.jpg
 ---
 # Deep Learning Basic 07 - CNN (Convolutional Neural Network)
 

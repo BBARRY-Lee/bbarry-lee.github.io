@@ -5,7 +5,7 @@ subtitle: "Optimization"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main4.jpg
 ---
 # Deep Learning Basic 04 - Optimization
 

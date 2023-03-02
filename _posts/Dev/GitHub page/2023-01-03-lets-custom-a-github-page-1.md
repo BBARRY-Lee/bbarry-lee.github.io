@@ -5,7 +5,7 @@ subtitle: "[Mac] GitHub Page로 개인 기술 블로그 만들기"
 category: Dev
 tags:     GitHub-Page Git Mac
 image:
-  path:   /assets/img/2023-01-03/1.png
+  path:   /assets/img/2023-01-03/main1.jpg
 ---
 # [Mac] Let's custom a GitHub Page 1
 <br><br><br>

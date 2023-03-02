@@ -6,7 +6,7 @@ category: Dev
 more_posts: posts.md
 tags:     GitHub-Page Git Mac
 image:
-  path:   /assets/img/2023-01-03/1.png
+  path:   /assets/img/2023-01-03/main2.jpg
 ---
 # [Mac] Let's create a GitHub Page 1
 <br><br><br>

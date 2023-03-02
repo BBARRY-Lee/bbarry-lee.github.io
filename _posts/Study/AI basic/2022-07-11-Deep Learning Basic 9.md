@@ -5,7 +5,7 @@ subtitle: "CNN"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main9.jpg
 ---
 # Deep Learning Basic 09 - CNN
 

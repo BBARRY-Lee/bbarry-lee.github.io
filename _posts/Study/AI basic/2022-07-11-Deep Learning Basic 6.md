@@ -5,7 +5,7 @@ subtitle: "Regularization"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main6.jpg
 ---
 # Deep Learning Basic 06 - Regularization
 

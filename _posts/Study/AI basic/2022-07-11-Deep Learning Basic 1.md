@@ -5,7 +5,7 @@ subtitle: "Deep Learning에 대한 소개 및 keyword"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main1.jpg
 ---
 # Deep Learning Basic 01 - Intro
 

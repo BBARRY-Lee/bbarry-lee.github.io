@@ -21,7 +21,7 @@ lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: |
-                 Daisy's Tech Garden
+                 Daisy's Space
 
 timezone:              Asia/Seoul
 
@@ -93,12 +93,12 @@ excerpt_separator:     <!--more-->
 accent_image:
   background:          /assets/img/back1.jpg
   overlay:             false
-accent_color:          rgb(0,174,239)
+accent_color:          rgb(0, 173, 181)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(31,55,75)
+theme_color:           rgb(238, 238, 238)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/config/#changing-fonts>

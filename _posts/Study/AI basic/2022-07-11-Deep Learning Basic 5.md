@@ -5,7 +5,7 @@ subtitle: "Gradient Descent Method"
 category: Study
 tags:     AI-Basic
 image:
-  path:   /assets/img/boostcourse.png
+  path:   /assets/img/dlb_main5.jpg
 ---
 # Deep Learning Basic 05 - Gradient Descent Method
 
