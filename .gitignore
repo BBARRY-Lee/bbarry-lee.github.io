@@ -3,7 +3,7 @@ _gh_pages
 _site
 _drafts
 .ruby-version
-
+./_data/resume.yml
 # Numerous always-ignore extensions
 *.diff
 *.err
