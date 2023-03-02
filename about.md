@@ -8,7 +8,7 @@ order: 1
 ---
 
 ## Hello, World!
-Thank you for visiting Daisy's AI Tech.<br>
+Thank you for visiting Daisy's Tech Garden.<br>
 I am studying artificial intelligence, machine learning, and deep learning.<br>
 My goal is to be an AI expert who pursues technology for a better world and life.<br>
 I dream of an AI engineer who can help in various fields,<br>

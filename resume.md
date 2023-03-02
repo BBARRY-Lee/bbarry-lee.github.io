@@ -3,7 +3,7 @@ layout: resume
 title: Resume
 permalink: /resume/
 description: >
-  Hi, I'm Daisy Lee, AI Engineer.
+  Hi, I'm Daisy Lee :)
 hide_description: true
 sidebar: true
 order: 2
@@ -23,6 +23,6 @@ no_language_icons: false
 no_skill_icons: false
 buttons:
   print: true
-  pdf: /assets/Resume.pdf
-  json: /assets/resume.json
+  #pdf: /assets/Resume.pdf
+  #json: /assets/resume.json
 ---

@@ -20,7 +20,8 @@
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Daisy's Garden
+title: |
+                 Daisy's Tech Garden
 
 timezone:              Asia/Seoul
 
@@ -39,14 +40,14 @@ keywords:              ["AI", "ML", "DL"]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/D1.png
+logo:                  /assets/img/DDD.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Daisy Lee
   email:               bbarry.official@gmail.com
-  picture:             /assets/img/D1.png
+  picture:             /assets/img/DDD.png
   social:
     linkedin:          jiyun-lee-b4136424b
     github:            BBARRY-Lee
