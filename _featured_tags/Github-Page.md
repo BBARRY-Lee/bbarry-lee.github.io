@@ -1,9 +1,9 @@
 ---
 layout: tag-list
 type: tag
-title: GitHub Page
+title: ⁃ GitHub Page
 slug: GitHub-Page
-category: Dev
+category: Projects
 sidebar: true
 order: 1
 description: >

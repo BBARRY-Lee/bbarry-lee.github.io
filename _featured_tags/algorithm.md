@@ -1,9 +1,9 @@
 ---
 layout: tag-list
 type: tag
-title: Algorithm
+title: ⁃ Algorithm
 slug: Algorithm
-category: Study
+category: Dev
 sidebar: true
 description: >
    Algorithm study

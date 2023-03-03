@@ -7,12 +7,12 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    For a better world and life.
+  about:        |
+    궁금한 사항은 언제든 'bbarry.official@gmail.com' 으로 연락해주세요 :)
 
     
   picture:
-    path:            /assets/img/Daisy.jpg
+    path:            /assets/img/Daisy.jpeg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # srcset:
     #   1x:

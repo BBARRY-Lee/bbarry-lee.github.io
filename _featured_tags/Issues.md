@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: Issues
+title: ⁃ Issues
 slug: Issues
 category: Dev
 sidebar: true
