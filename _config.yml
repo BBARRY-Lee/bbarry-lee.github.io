@@ -40,14 +40,14 @@ keywords:              ["AI", "ML", "DL"]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/DDD.png
+logo:                  /assets/img/DD.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Daisy Lee
   email:               bbarry.official@gmail.com
-  picture:             /assets/img/DDD.png
+  picture:             /assets/img/DD.png
   social:
     linkedin:          jiyun-lee-b4136424b
     github:            BBARRY-Lee
