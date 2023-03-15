@@ -1,3 +1,4 @@
+# hide_description: false -> 깃허브 업로드 시, false 설정
 basics:
   name: "이지윤"
   label: "스마일게이트 AI센터 서비스 기획자"
