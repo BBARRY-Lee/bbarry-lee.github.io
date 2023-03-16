@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:        |
-    7년차 직장인, 현재는 데이터 분석과 AI를 배우고 서비스 기획 직무를 준비 중 입니다.
+    7년차 직장인, 퇴사 후 데이터 분석과 AI를 배우고 현재는 서비스 기획 직무를 준비 중 입니다.
     
   picture:
     path:            /assets/img/Daisy2.gif
