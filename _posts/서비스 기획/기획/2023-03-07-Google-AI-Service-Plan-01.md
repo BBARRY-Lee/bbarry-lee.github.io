@@ -3,7 +3,7 @@ layout:   post
 title:    "AI 서비스 기획 01 - 사용자 니즈와 성공의 정의 (User Needs + Defining Success)"
 subtitle: "사용자 니즈와 성공의 정의 (User Needs + Defining Success)"
 category: 서비스-기획
-tags:     기획
+tags:     기획 AI
 image:
   path:   /assets/img/2023-03-07/AS01.png
 ---
@@ -18,8 +18,8 @@ image:
 저는 이 6가지 가이드라인에 대해 정리해보았으며, 본 포스팅에서는 Chapter 1에 대해 다뤄보도록 하겠습니다.
 
 > 1. User Needs + Defining Success (사용자 니즈와 성공의 정의)
-> 2. Data Collection + Evaluation (데이터 수집과 평가)
-> 3. Mental Models (멘탈 모델)
+> 2. [Data Collection + Evaluation (데이터 수집과 평가)](https://bbarry-lee.github.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D/Google-AI-Service-Plan-02.html)
+> 3. Mental Models
 > 4. Explainability + Trust (설명 가능성과 신뢰)
 > 5. Feedback + Control (피드백과 제어)
 > 6. Error + Graceful Failure (오류와 정상적인 실패)
@@ -300,6 +300,9 @@ Product가 발전함에 따라 **고려하지 않은 이해관계자에게 부�
 <br><br>
 다음은 Chapter 2 "데이터 수집과 평가 (Data Collection + Evaluation)"를 정리해보겠습니다. <br>
 
+
+Next series [Data Collection + Evaluation](Google-AI-Service-Plan-02){:.heading.flip-title}
+{:.read-more}
 <!--more-->
 
 <br><br>

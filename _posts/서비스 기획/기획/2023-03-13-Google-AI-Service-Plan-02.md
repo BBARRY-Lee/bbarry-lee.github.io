@@ -3,7 +3,7 @@ layout:   post
 title:    "AI 서비스 기획 02 - 데이터 수집과 평가 (Data Collection + Evaluation)"
 subtitle: "데이터 수집과 평가 (Data Collection + Evaluation)"
 category: 서비스-기획
-tags:     기획
+tags:     기획 AI
 image:
   path:   /assets/img/2023-03-07/AS02.png
 ---
@@ -13,9 +13,9 @@ image:
 
 구글의 AI 서비스 R&D 조직 PAIR에서 제작한 “People + AI Guidebook”의 [6단계의 가이드라인](https://pair.withgoogle.com/guidebook/chapters) 중 Chapter 2에 대해 다뤄보도록 하겠습니다.
 
-> 1. User Needs + Defining Success (사용자 니즈와 성공의 정의)
+> 1. [User Needs + Defining Success (사용자 니즈와 성공의 정의)](https://bbarry-lee.github.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D/Google-AI-Service-Plan-01.html)
 > 2. Data Collection + Evaluation (데이터 수집과 평가)
-> 3. Mental Models (멘탈 모델)
+> 3. Mental Models
 > 4. Explainability + Trust (설명 가능성과 신뢰)
 > 5. Feedback + Control (피드백과 제어)
 > 6. Error + Graceful Failure (오류와 정상적인 실패)
@@ -487,7 +487,7 @@ Q. Tuning의 성공 여부를 판단하기 위해 어떤 지표를 사용할 것
 
 > 1. **`초기 단계의 양질의 데이터 수집 계획`** : 데이터를 수집하고 준비할 때 미리 철저한 계획을 세워두면 전체 사이클에서 잘못된 데이터 선택의 영향을 방지할 수 있음
 > 2. **`사용자의 니즈와 데이터 요구사항 연결`** : 데이터의 Feature, Label 및 Example을 신중하게 고려해야 하며, 사용자의 니즈, 사용자 작업 및 예측을 필요한 Dataset을 체계적으로 분석해야 함. 잠재적인 Dataset을 식별하거나 데이터 수집 계획을 수립할 때 데이터를 검사하고 잠재적인 편향을 식별하며 데이터 수집 방법을 설계해야 함
-> 3. **`데이터 소싱 및 평가** : 기존 Dataset을 사용하거나, 새 Training dataset을 구축하는 경우 모두 관련성, 공정성, 개인 정보 보호 및 보안을 고려해야 함
+> 3. **`데이터 소싱 및 평가`** : 기존 Dataset을 사용하거나, 새 Training dataset을 구축하는 경우 모두 관련성, 공정성, 개인 정보 보호 및 보안을 고려해야 함
 > 4. **`Dataset 구축 및 문서화`** : Dataset의 준비 및 수집, 처리 과정에서 내린 결정과 내용을 문서화해야 함
 > 5. **`라벨러 및 라벨링을 위한 설계` :** Label이 올바르게 지정된 데이터는 효과적인 지도 학습 (Supervised learning)의 중요한 요소로, 라벨러가 사용하는 툴을 신중하게 검토하면 라벨의 정확성을 향상하는 데 도움됨
 > 6. **`모델의 Tuning` :**  모델의 파라미터를 조정할 뿐만 아니라 데이터를 검사하는 작업이 포함하여 모델을 엄격하게 테스트하고 Tuuning해야 함. 대부분의 경우 데이터의 문제로 추적될 수 있음
