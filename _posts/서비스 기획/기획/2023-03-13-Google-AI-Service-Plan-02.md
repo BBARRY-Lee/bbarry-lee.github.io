@@ -492,10 +492,15 @@ Q. Tuning의 성공 여부를 판단하기 위해 어떤 지표를 사용할 것
 > 5. **`라벨러 및 라벨링을 위한 설계` :** Label이 올바르게 지정된 데이터는 효과적인 지도 학습 (Supervised learning)의 중요한 요소로, 라벨러가 사용하는 툴을 신중하게 검토하면 라벨의 정확성을 향상하는 데 도움됨
 > 6. **`모델의 Tuning` :**  모델의 파라미터를 조정할 뿐만 아니라 데이터를 검사하는 작업이 포함하여 모델을 엄격하게 테스트하고 Tuuning해야 함. 대부분의 경우 데이터의 문제로 추적될 수 있음
 
----
-
 <br><br>
 다음은 Chapter 3 "Mental Models"를 정리해보겠습니다. <br>
+
+Next series [Mental Models](Google-AI-Service-Plan-03){:.heading.flip-title}
+{:.read-more}
+<br><br>
+
+---
+
 
 <!--more-->
 

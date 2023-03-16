@@ -295,7 +295,6 @@ Product가 발전함에 따라 **고려하지 않은 이해관계자에게 부�
 >>        2) 고려하지 않은 이해관계자에게 부정적인 영향이 있는지 피드백을 확인
 >>        3) 소통을 바탕으로 지속적인 부정적인 영향을 피하기 위해 제품을 조정하는 방법을 전략화
 
----
 
 <br><br>
 다음은 Chapter 2 "데이터 수집과 평가 (Data Collection + Evaluation)"를 정리해보겠습니다. <br>
@@ -303,6 +302,10 @@ Product가 발전함에 따라 **고려하지 않은 이해관계자에게 부�
 
 Next series [Data Collection + Evaluation](Google-AI-Service-Plan-02){:.heading.flip-title}
 {:.read-more}
+<br><br>
+
+---
+
 <!--more-->
 
 <br><br>
