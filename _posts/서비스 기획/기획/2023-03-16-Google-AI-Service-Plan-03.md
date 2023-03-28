@@ -17,8 +17,9 @@ image:
 > 2. [Data Collection + Evaluation (데이터 수집과 평가)](https://bbarry-lee.github.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D/Google-AI-Service-Plan-02.html)
 > 3. [Mental Models](https://bbarry-lee.github.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D/Google-AI-Service-Plan-03.html)
 > 4. [Explainability + Trust (설명 가능성과 신뢰)](https://bbarry-lee.github.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D/Google-AI-Service-Plan-04.html)
-> 5. Feedback + Control (피드백과 제어)
+> 5. [Feedback + Control (피드백과 제어)](https://bbarry-lee.github.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D/Google-AI-Service-Plan-05.html)
 > 6. Error + Graceful Failure (오류와 정상적인 실패)
+
 
 ---
 
