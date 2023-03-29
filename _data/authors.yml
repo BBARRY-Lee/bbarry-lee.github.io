@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:        |
-    만드는 사람이 수고로우면 쓰는 사람이 편하고, 만드는 사람이 편하면 쓰는 사람이 수고롭다.
+    나와 내 옆의 사람을 위한 서비스를 기획하자.
     
   picture:
     path:            /assets/img/Daisy2.gif

@@ -33,7 +33,7 @@ image:
 
 ## Intro
 
-Chapter 2에서는 다음 주제를 바탕으로 이야기합니다.
+***Chapter 2에서는 다음 주제를 바탕으로 이야기합니다.***
 > 1. 사용자의 니즈를 충족하기 위한 Training dataset
 > 2. 기존 Training dataset 사용과 dataset 자체 구축 결정
 > 3. 데이터 품질을 높이는 방법
